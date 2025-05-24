@@ -2,4 +2,5 @@ git init .   inicializa um repositório na pasta atual.
 git status  verifica o status do repositório.
 git add  adiciona arquivos para fazer o commit.
 git commit -m "msg"  faz o commit, as "" é para colocar uma descrição no commit.
-git log mostra todo o historico de commit.  
+git log mostra todo o historico de commit
+olá.  
