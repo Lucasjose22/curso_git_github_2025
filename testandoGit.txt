@@ -3,4 +3,10 @@ git status  verifica o status do repositório.
 git add  adiciona arquivos para fazer o commit.
 git commit -m "msg"  faz o commit, as "" é para colocar uma descrição no commit.
 git log mostra todo o historico de commit
-olá.  
+olá.
+como vai vc
+eueueueueu
+teste olá
+tudo bem 
+ei 
+oi    
