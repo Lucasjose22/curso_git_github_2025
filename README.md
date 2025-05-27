@@ -13,4 +13,5 @@ Só mais um teste que fiz besteira
 Pessoas participates:
 
 - Lucas
-
+- Nataly
+- alice
