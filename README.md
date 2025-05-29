@@ -15,3 +15,6 @@ Pessoas participates:
 - Lucas
 - Nataly
 - alice
+
+Além do nosso youtube se ligue no nosso site e agenda para ficar por dentro de tudo
+que rolar em 2025.
